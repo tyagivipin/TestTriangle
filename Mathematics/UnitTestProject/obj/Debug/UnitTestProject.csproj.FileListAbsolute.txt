@@ -1,0 +1,8 @@
+C:\Users\Paxcel\Downloads\UnitTestProject\Mathematics\UnitTestProject\bin\Debug\UnitTestProject.dll
+C:\Users\Paxcel\Downloads\UnitTestProject\Mathematics\UnitTestProject\bin\Debug\UnitTestProject.pdb
+C:\Users\Paxcel\Downloads\UnitTestProject\Mathematics\UnitTestProject\bin\Debug\Mathematics.exe
+C:\Users\Paxcel\Downloads\UnitTestProject\Mathematics\UnitTestProject\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\Paxcel\Downloads\UnitTestProject\Mathematics\UnitTestProject\bin\Debug\Mathematics.pdb
+C:\Users\Paxcel\Downloads\UnitTestProject\Mathematics\UnitTestProject\obj\Debug\UnitTestProject.csprojResolveAssemblyReference.cache
+C:\Users\Paxcel\Downloads\UnitTestProject\Mathematics\UnitTestProject\obj\Debug\UnitTestProject.dll
+C:\Users\Paxcel\Downloads\UnitTestProject\Mathematics\UnitTestProject\obj\Debug\UnitTestProject.pdb
